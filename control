@@ -1,0 +1,8 @@
+Package: com.xcxiao.bottomtoolbarextensionexample
+Name: BottomToolBarExtensionExample
+Depends: mobilesubstrate, com.twickd.xcxiao.bottomtoolbar(>=1.2.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome BottomToolBar extension!
+Maintainer: XCXiao
+Author: XCXiao
