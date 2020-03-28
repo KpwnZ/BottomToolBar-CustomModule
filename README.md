@@ -11,5 +11,5 @@ Using $THEOS/bin/nic.pl then choose iphone/BottomToolBar_extension.
 Go to Settings -> BottomToolBar -> Advanced -> Edit extensions then add the extension to BottomToolBar.
 
 ## Changes log
-### Version 1.3
-* Added support for expanding custom extension module view like iOS Control Center
+### Version 1.3.0
+* Added support for expanding custom extension module view like iOS Control Center. This feature is only available with BottomToolBar full version 1.3.0.
